@@ -20,4 +20,4 @@
  - Overall, green energy stocks didn't show consistency in 2 consucative years...maybe it could have been different if we had more data from other years
  - Our anlysis determined not to trust the high return of stocks in one year if it is not cosistent
  * Recommendations:
-  - Next time Steve decides to run an analysis, it is recomended to get data from more years to give us better picture
+  - Next time Steve decides to run an analysis, it is recommended to get data from more years to give us better picture

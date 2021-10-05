@@ -11,6 +11,13 @@
 * Both ENPH and RUN gained in both years 
 * DQ was the most profitable in 2017, but it ended up with the highest percentage of loss in year 2018
 * AY was not too volatile compared to other socks with mixed results. AY gained 8.9% in 2017 and lost 7.3% in 2018. 
+
+![2017](https://user-images.githubusercontent.com/89214854/136093775-54340217-5911-45b6-8dd0-1cd298d13a0c.png)
+![2018](https://user-images.githubusercontent.com/89214854/136093751-b37ed2e0-b711-4197-b9d0-2969b1bebddd.png)
+
+
+
+
 ## Summary, conclusion and Recommendations
 * Summary: The following summary can be presented from the project
  - The 2 conscutaive years end up completely different in their profitability
